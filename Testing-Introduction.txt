@@ -1,0 +1,13 @@
+Test driven development : We write test cases before development
+                            > it is a very very very good approach but it significantly reduces the development process time.
+
+Different type of testing :
+      > Manual testing (Require humans - not that efficient) 
+      > Automated Testing (Code testing a code , tools like : Selenium)                 
+      > E2E Testing -- End to End Testing-- Whole flow is tested - It covers entire user Journey (We simulate a user ; the actions of the user)
+      (Headless brrowser : kind of actual  browser but it have no ui)
+
+      >  Unit Testing : (core job of developers) Small component feature testing , we need to test small units
+      >  Integration Testing : Testing the Integration between the components , for ex: click button and change in ui of other component.
+
+      > Lot more : Smoke , Regression etc etc, but developers are mostly concerned with unit and integration.
