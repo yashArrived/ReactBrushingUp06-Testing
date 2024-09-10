@@ -1,0 +1,4 @@
+Jest is a javascript testing framework.
+    >Fast
+
+React Testing Library uses jest behind the scenes.

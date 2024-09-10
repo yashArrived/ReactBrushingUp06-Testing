@@ -1,0 +1,8 @@
+Setup react testing Library
+
+1) npm i --save-dev @testing-library/react
+
+Also need to install jest as RTL is based on jest
+
+2) npm i -D jest  (v29.4.1)
+
