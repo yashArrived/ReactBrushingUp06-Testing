@@ -1,4 +1,4 @@
-// import sum from "./sum"
+import sum from "./sum"
 
 // first argument - name of our test 
 //second argument will be the code that it will execute
